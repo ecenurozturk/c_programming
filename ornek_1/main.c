@@ -13,7 +13,7 @@ int main()
 }
     else
     {
-        printf("git burdan %d",isim);
+        printf("git burdan %s",isim);
     }
 
     return 0;
