@@ -1,6 +1,6 @@
 
 
-**1. Hafta Ödevleri**
+**1. Hafta **
 -----------------
  - **Pazartesi**
  - **Salı**
@@ -10,7 +10,7 @@
   
 To Do
 
-**2.Hafta Ödevleri**
+**2.Hafta **
 ----------------
 
  - **Pazartesi** - Ekrandan girilen karakterin ASCII değerini bastıracak program(G -> 71 )
