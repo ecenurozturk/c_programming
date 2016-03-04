@@ -30,5 +30,5 @@ Girilen yılın Artık yıl olup olmadığını söyleyen program
 >2016 -> Artık yıl
  
 ###**Cuma**
-Girilen sayının tersini yazan program
+Girilen sayının tersini yazan program( Mod işlemi (%) kullanmadan yapılmalı.)
 >2483 girildiğinde ->3842  vermeli
