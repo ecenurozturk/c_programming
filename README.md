@@ -3,11 +3,11 @@
 #C Programlama Ödevleri
 
 ##**1. Hafta**
- ###**Pazartesi**
- ###**Salı**
- ###**Çarşamba**
- ###**Perşembe**
- ###**Cuma**
+###**Pazartesi**
+###**Salı**
+###**Çarşamba**
+###**Perşembe**
+###**Cuma**
   
 To Do
 
