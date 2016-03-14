@@ -43,7 +43,7 @@ Fonksiyon kullanarak verilen sayıda satıra sahip üçgen oluşturunuz.
 
 >x x
 
->x x x                                  5  verildiğinde bu şekilde üçgen oluşturmalı.
+>x x x       --------------------->       5  verildiğinde bu şekilde üçgen oluşturmalı.
 
 >x x x x
 
@@ -51,6 +51,16 @@ Fonksiyon kullanarak verilen sayıda satıra sahip üçgen oluşturunuz.
 
 
 ###**Salı**
+Fonksiyon yapısı kullanarak basti  bir hesap makinesi yapınız. 4 işlemi gerçekleştirebilsin ve bu geçişleri switch-case kullanarak yapınız.
+
 ###**Çarşamba**
+Verilen sayının çarpanlarını yazan programı fonksiyon tanımlayarak yapınız.
+>60 -> 1 2 3 4 5 6 12 15 20 30 60
+
 ###**Perşembe**
+Verilen sayının faktoriyelini rekürsiflik kullanarak hesaplayınız.
+>5! -> 120
+
 ###**Cuma**
+Girilen 5 sayıyı bir diziye atayıp, bu sayıların ortalamasını hesaplayınız.
+> 5, 7, 12 -> 8
