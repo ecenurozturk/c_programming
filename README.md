@@ -43,7 +43,7 @@ Fonksiyon kullanarak verilen sayıda satıra sahip üçgen oluşturunuz.
 
 >x x
 
->x x x          5  verildiğinde bu şekilde üçgen oluşturmalı.
+>x x x                                  5  verildiğinde bu şekilde üçgen oluşturmalı.
 
 >x x x x
 
