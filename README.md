@@ -32,3 +32,25 @@ Girilen yılın Artık yıl olup olmadığını söyleyen program
 ###**Cuma**
 Girilen sayının tersini yazan program( Mod işlemi (%) kullanmadan yapılmalı.)
 >2483 girildiğinde ->3842  vermeli
+
+##**3. Hafta**
+
+###**Pazartesi**
+Fonksiyon kullanarak verilen sayıda satıra sahip üçgen oluşturunuz.
+
+
+>x
+
+>x x
+
+>x x x          5  verildiğinde bu şekilde üçgen oluşturmalı.
+
+>x x x x
+
+>x x x x x
+
+
+###**Salı**
+###**Çarşamba**
+###**Perşembe**
+###**Cuma**
