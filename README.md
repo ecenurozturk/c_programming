@@ -64,3 +64,30 @@ Verilen sayının faktoriyelini rekürsiflik kullanarak hesaplayınız.
 ###**Cuma**
 Girilen 5 sayıyı bir diziye atayıp, bu sayıların ortalamasını hesaplayınız.
 > 5, 7, 12 -> 8
+
+
+##**4. Hafta**
+
+###**Pazartesi**
+Girilen iki metnin(kelime değil, metin!) uzunluklarını kıyaslayarak uzun olanı ekrana basan programı yazınız.
+>Once upon a time bla bla
+>There was a bla bla
+>Once upon a time bla bla
+
+###**Salı**
+Girilen stringdeki boşlukları silen programı yazınız.
+>Ahmet ile Mehmet bir gün a ile b arasındaki farkı bulamayınca, Ahmet Mehmet'e NABIYON! diye bağırdı
+>AhmetileMehmetbirgünailebarasındakifarkıbulamayınca,AhmetMehmet'eNABIYON!diyebağırdı.
+
+###**Çarşamba**
+Girilen iki kelimenin anagram olup olmadığını söyleyen programı yazınız.
+>Creative
+>Reactive
+>Girilen kelimeler anagramdır.
+
+###**Perşembe**
+Girilen N elemanı bir diziye atayıp, bu elemanları Bubble Sort algoritmasına göre sıralayan programı yazınız.(N elemanı da konsoldan alınmalıdır.)
+
+###**Cuma**
+Tatil. Ya da yapamadığın bir gün için ekstra süre.
+
